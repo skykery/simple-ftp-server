@@ -8,7 +8,7 @@ from PySide6.QtUiTools import QUiLoader
 from PySide6.QtWidgets import QMainWindow, QApplication, QFileDialog
 
 from services import FTPManager
-from ui_mainwindow import Ui_MainWindow
+from design.ui_mainwindow import Ui_MainWindow
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)

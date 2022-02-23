@@ -2,7 +2,7 @@ build
 data
 venv
 dist
-design.ui
 __pycache__
+commands.md
 .idea
 .DS_Store
