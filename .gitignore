@@ -1,0 +1,8 @@
+build
+data
+venv
+dist
+design.ui
+__pycache__
+.idea
+.DS_Store
